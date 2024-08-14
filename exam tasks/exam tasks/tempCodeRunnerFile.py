@@ -1,0 +1,1 @@
+  new_str += "0" * string_len
